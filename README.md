@@ -1,2 +1,12 @@
-# cybersecurity-portfolio
-This will be the start of something special. My CyberSecurity journey and all the projects I will be working on. See the development from beginner to a master of my craft.
+# Cybersecurity Portfolio
+Welcome to my cybersecurity portfolio.
+This portfolio documents selected hands-on projects completed while studying information
+technology security.
+## Skills I Am Developing
+- Security analysis
+- Risk assessment
+- Network security
+- Identity and access management
+- Vulnerability management
+- Incident response
+- Technical documentation
